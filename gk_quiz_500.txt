@@ -1,0 +1,522 @@
+Question,Option A,Option B,Option C,Option D,Correct Answer
+"Which river is the longest in the world?",Amazon,Nile,Yangtze,Mississippi,B
+"Who wrote the novel '1984'?",George Orwell,Aldous Huxley,Ray Bradbury,J.K. Rowling,A
+"What is the capital of Brazil?",Rio de Janeiro,São Paulo,Brasília,Belo Horizonte,C
+"Which planet is closest to the Sun?",Venus,Mercury,Mars,Earth,B
+"In which year did the Berlin Wall fall?",1989,1991,1987,1988,A
+"What is the chemical symbol for silver?",Si,Ag,Au,Al,B
+"Which country has the most time zones?",Russia,United States,China,Brazil,A
+"Who composed the opera 'The Magic Flute'?",Mozart,Beethoven,Bach,Verdi,A
+"What is the largest desert in the world?",Sahara,Gobi,Kalahari,Arabian,A
+"Which English king was executed in 1649?",Charles I,Charles II,Henry VIII,Richard III,A
+"What is the most abundant gas in Earth's atmosphere?",Oxygen,Carbon Dioxide,Nitrogen,Argon,C
+"Which artist painted 'The Starry Night'?",Pablo Picasso,Vincent van Gogh,Claude Monet,Salvador Dali,B
+"What is the smallest bone in the human body?",Stapes,Femur,Radius,Patella,A
+"Which city hosted the 2016 Summer Olympics?",Tokyo,London,Rio de Janeiro,Beijing,C
+"Who wrote 'Romeo and Juliet'?",William Shakespeare,Christopher Marlowe,Ben Jonson,John Webster,A
+"What is the currency of Switzerland?",Euro,Swiss Franc,Kroner,Pound,B
+"Which mountain range contains Mount Everest?",Andes,Himalayas,Rockies,Alps,B
+"In which country is Machu Picchu located?",Brazil,Peru,Ecuador,Colombia,B
+"What is the hardest natural substance?",Quartz,Diamond,Granite,Iron,B
+"Which planet is known as the 'Evening Star'?",Mars,Venus,Jupiter,Saturn,B
+"Who invented the telephone?",Thomas Edison,Alexander Graham Bell,Nikola Tesla,Benjamin Franklin,B
+"What is the capital of Canada?",Toronto,Montreal,Vancouver,Ottawa,D
+"Which ocean is the smallest?",Atlantic,Indian,Arctic,Pacific,C
+"In which year was the first man landed on the moon?",1969,1968,1970,1971,A
+"What is the largest mammal in the world?",African Elephant,Blue Whale,Sperm Whale,Giraffe,B
+"Which country is known as the 'Land of the Rising Sun'?",China,Japan,South Korea,Thailand,B
+"Who wrote 'The Great Gatsby'?",F. Scott Fitzgerald,Ernest Hemingway,John Steinbeck,William Faulkner,A
+"What is the chemical symbol for gold?",Ag,Au,Fe,Cu,B
+"Which city is known as the 'City of Light'?",London,Paris,Rome,Vienna,B
+"What is the fastest land animal?",Lion,Cheetah,Leopard,Jaguar,B
+"In which year did World War I begin?",1914,1913,1915,1916,A
+"What is the largest island in the world?",Australia,Greenland,New Guinea,Madagascar,B
+"Which scientist developed the theory of relativity?",Isaac Newton,Albert Einstein,Galileo Galilei,Stephen Hawking,B
+"What is the capital of Australia?",Sydney,Melbourne,Brisbane,Canbizer,D
+"Which river flows through London?",Thames,Seine,Rhine,Danube,A
+"Who painted 'The Last Supper'?",Michelangelo,Leonardo da Vinci,Raphael,Donatello,B
+"What is the smallest country in the world?",Monaco,Vatican City,San Marino,Liechtenstein,B
+"Which planet has the most moons?",Jupiter,Saturn,Neptune,Uranus,B
+"In which year did the Soviet Union collapse?",1991,1989,1992,1990,A
+"What is the largest bone in the human body?",Femur,Tibia,Humerus,Radius,A
+"Which country is known as the 'Land of the Midnight Sun'?",Sweden,Norway,Finland,Denmark,B
+"Who wrote 'Pride and Prejudice'?",Emily Bronte,Jane Austen,Charlotte Bronte,George Eliot,B
+"What is the currency of India?",Dollar,Rupee,Peso,Yen,B
+"Which city is the capital of Spain?",Barcelona,Madrid,Valencia,Seville,B
+"What is the chemical formula for water?",H2O,CO2,NaCl,NH3,A
+"Which continent is the largest?",Africa,Asia,North America,South America,B
+"Who invented the light bulb?",Thomas Edison,Nikola Tesla,Alexander Graham Bell,Benjamin Franklin,A
+"What is the deepest ocean?",Atlantic,Indian,Arctic,Pacific,D
+"In which country is the ancient city of Petra located?",Egypt,Jordan,Syria,Israel,B
+"What is the biggest planet in our solar system?",Saturn,Jupiter,Neptune,Uranus,B
+"Which river is the longest in Europe?",Danube,Rhine,Volga,Thames,C
+"Who composed 'The Four Seasons'?",Mozart,Vivaldi,Bach,Beethoven,B
+"What is the capital of Egypt?",Cairo,Alexandria,Luxor,Aswan,A
+"Which metal is liquid at room temperature?",Lead,Mercury,Tin,Zinc,B
+"In which year did the Titanic sink?",1912,1913,1911,1910,A
+"What is the most spoken language in the world?",English,Spanish,Mandarin,Hindi,C
+"Which country is known as the 'Land of the Rising Sun'?",China,Japan,South Korea,Thailand,B
+"Who wrote 'One Hundred Years of Solitude'?",Gabriel García Márquez,Pablo Neruda,Mario Vargas Llosa,Isabel Allende,A
+"What is the capital of Italy?",Milan,Rome,Venice,Florence,B
+"Which planet is known as the 'Red Planet'?",Venus,Mars,Jupiter,Saturn,B
+"In which year did World War II end?",1945,1944,1946,1943,A
+"What is the smallest planet in our solar system?",Mercury,Venus,Mars,Pluto,A
+"Which country has the most natural lakes?",Russia,Canada,Sweden,Finland,B
+"Who wrote 'To Kill a Mockingbird'?",Harper Lee,J.D. Salinger,Truman Capote,William Faulkner,A
+"What is the currency of Japan?",Yen,Won,Yuan,Ringgit,A
+"Which city is known as the 'Big Apple'?",Los Angeles,New York,Chicago,Miami,B
+"What is the largest mammal on land?",Blue Whale,African Elephant,Hippo,Giraffe,B
+"In which country is the ancient city of Pompeii located?",Italy,Greece,Turkey,Egypt,A
+"What is the chemical symbol for iron?",Fe,Ir,I,Fr,A
+"Which river runs through Paris?",Thames,Rhine,Seine,Danube,C
+"Who painted 'The Scream'?",Edvard Munch,Pablo Picasso,Vincent van Gogh,Claude Monet,A
+"What is the capital of Russia?",Moscow,St. Petersburg,Yekaterinburg,Novosibirsk,A
+"Which planet is closest to Earth?",Mars,Venus,Mercury,Jupiter,B
+"In which year did the American Civil War begin?",1861,1860,1862,1859,A
+"What is the largest ocean on Earth?",Atlantic,Indian,Arctic,Pacific,D
+"Which country is known as the 'Land of the Thunder Dragon'?",Tibet,Nepal,Bhutan,Myanmar,C
+"Who wrote 'The Catcher in the Rye'?",J.D. Salinger,Harper Lee,Truman Capote,William Golding,A
+"What is the currency of the United Kingdom?",Euro,Pound Sterling,Dollar,Kroner,B
+"Which city is the capital of Germany?",Munich,Berlin,Frankfurt,Hamburg,B
+"What is the most abundant element in the universe?",Helium,Hydrogen,Oxygen,Carbon,B
+"In which country is the ancient city of Angkor Wat located?",Thailand,Cambodia,Vietnam,Laos,B
+"What is the largest desert in Asia?",Gobi,Thar,Kara-Kum,Taklamakan,A
+"Which river is the longest in Asia?",Ganges,Mekong,Yangtze,Yellow,C
+"Who composed 'The Ninth Symphony'?",Mozart,Beethoven,Bach,Brahms,B
+"What is the capital of China?",Shanghai,Beijing,Guangzhou,Shenzhen,B
+"Which organ in the human body produces insulin?",Liver,Kidney,Pancreas,Spleen,C
+"In which year did the Berlin Wall fall?",1989,1991,1987,1988,A
+"What is the smallest ocean in the world?",Arctic,Indian,Atlantic,Pacific,A
+"Which country is known as the 'Land of the Rising Sun'?",China,Japan,South Korea,Thailand,B
+"Who wrote 'War and Peace'?",Leo Tolstoy,Fyodor Dostoevsky,Anton Chekhov,Ivan Turgenev,A
+"What is the capital of France?",Lyon,Paris,Marseille,Bordeaux,B
+"Which planet has the most moons?",Jupiter,Saturn,Neptune,Uranus,B
+"In which year did the first iPhone launch?",2007,2006,2008,2009,A
+"What is the largest island in the Mediterranean?",Sicily,Sardinia,Cyprus,Corsica,A
+"Which country is known as the 'Land of the Midnight Sun'?",Sweden,Norway,Finland,Denmark,B
+"Who painted 'Guernica'?",Pablo Picasso,Salvador Dali,Joan Miró,Diego Velázquez,A
+"What is the currency of China?",Yen,Won,Yuan,Ringgit,C
+"Which city is the capital of Japan?",Osaka,Tokyo,Kyoto,Kobe,B
+"What is the chemical formula for salt?",NaCl,KCl,CaCl2,MgCl2,A
+"In which country is the ancient city of Carthage located?",Libya,Tunisia,Algeria,Morocco,B
+"What is the longest river in North America?",Colorado,Missouri,Mississippi,Rio Grande,C
+"Which planet is known as the 'Morning Star'?",Mars,Venus,Jupiter,Saturn,B
+"Who wrote 'The Lord of the Rings'?",J.R.R. Tolkien,C.S. Lewis,J.K. Rowling,George R.R. Martin,A
+"What is the capital of India?",Mumbai,New Delhi,Kolkata,Chennai,B
+"Which is the largest mammal in the ocean?",Sperm Whale,Blue Whale,Humpback Whale,Orca,B
+"In which year did World War I end?",1918,1917,1919,1920,A
+"What is the smallest country in Asia?",Maldives,Brunei,Singapore,Vatican City,A
+"Which country is known as the 'Land of the Free'?",United States,France,Switzerland,Netherlands,A
+"Who composed 'The Moonlight Sonata'?",Mozart,Beethoven,Chopin,Liszt,B
+"What is the currency of Brazil?",Peso,Real,Dollar,Bolivar,B
+"Which city is known as the 'Eternal City'?",Athens,Rome,Cairo,Istanbul,B
+"What is the hardest natural substance on Earth?",Quartz,Diamond,Granite,Iron,B
+"In which country is the ancient city of Babylon located?",Iran,Iraq,Syria,Turkey,B
+"What is the largest desert in Africa?",Sahara,Kalahari,Namib,Libyan,A
+"Which river is the longest in Africa?",Congo,Niger,Nile,Zambezi,C
+"Who wrote 'Crime and Punishment'?",Leo Tolstoy,Fyodor Dostoevsky,Anton Chekhov,Ivan Turgenev,B
+"What is the capital of Mexico?",Guadalajara,Mexico City,Monterrey,Puebla,B
+"Which planet is known as the 'Ringed Planet'?",Jupiter,Saturn,Uranus,Neptune,B
+"In which year did the Great Wall of China begin construction?",7th century BC,3rd century BC,5th century BC,1st century BC,A
+"What is the smallest mammal in the world?",Shrew,Bumblebee Bat,Mouse,Rat,B
+"Which country is known as the 'Land of the Pharaohs'?",Egypt,Sudan,Libya,Morocco,A
+"Who painted 'The Birth of Venus'?",Michelangelo,Leonardo da Vinci,Sandro Botticelli,Raphael,C
+"What is the currency of Russia?",Ruble,Krone,Zloty,Forint,A
+"Which city is the capital of South Korea?",Busan,Seoul,Incheon,Daegu,B
+"What is the chemical symbol for oxygen?",O,O2,Ox,Om,A
+"In which country is the ancient city of Troy located?",Greece,Turkey,Italy,Egypt,B
+"What is the longest mountain range in the world?",Himalayas,Rockies,Andes,Alps,C
+"Which planet is the hottest in our solar system?",Mercury,Venus,Mars,Jupiter,B
+"Who wrote 'The Adventures of Tom Sawyer'?",Mark Twain,Charles Dickens,J.D. Salinger,Harper Lee,A
+"What is the capital of Thailand?",Bangkok,Phuket,Chiang Mai,Pattaya,A
+"Which is the largest organ in the human body?",Liver,Brain,Lungs,Skin,D
+"In which year did the Chernobyl disaster occur?",1986,1985,1987,1984,A
+"What is the smallest continent by area?",Australia,Antarctica,Europe,South America,A
+"Which country is known as the 'Land of Fire and Ice'?",Norway,Iceland,Greenland,Finland,B
+"Who composed 'The 1812 Overture'?",Tchaikovsky,Brahms,Liszt,Rachmaninoff,A
+"What is the currency of South Africa?",Rand,Dollar,Pound,Peso,A
+"Which city is known as the 'City of Love'?",Rome,Paris,Venice,Vienna,B
+"What is the fastest bird in the world?",Eagle,Falcon,Hawk,Peregrine Falcon,D
+"In which country is the ancient city of Persepolis located?",Iran,Iraq,Turkey,Syria,A
+"What is the largest lake in the world?",Lake Superior,Caspian Sea,Lake Victoria,Lake Baikal,B
+"Which river is the longest in South America?",Orinoco,Amazon,Paraná,Magdalena,B
+"Who wrote 'The Divine Comedy'?",Dante Alighieri,Petrarch,Boccaccio,Machiavelli,A
+"What is the capital of Argentina?",Buenos Aires,Córdoba,Rosario,Mendoza,A
+"Which planet is known as the 'Ice Giant'?",Jupiter,Saturn,Uranus,Neptune,C
+"In which year did the Stock Market crash, leading to the Great Depression?",1929,1928,1930,1931,A
+"What is the smallest bone in the human body?",Stapes,Femur,Radius,Patella,A
+"Which country is known as the 'Roof of the World'?",Nepal,Tibet,Bhutan,Pakistan,B
+"Who painted 'The Persistence of Memory'?",Pablo Picasso,Salvador Dali,René Magritte,Joan Miró,B
+"What is the currency of Canada?",Dollar,Pound,Euro,Peso,A
+"Which city is the capital of Turkey?",Istanbul,Ankara,Izmir,Bursa,B
+"What is the chemical formula for methane?",CH4,C2H6,C3H8,C4H10,A
+"In which country is the ancient city of Petra located?",Egypt,Jordan,Syria,Israel,B
+"What is the longest river in Europe?",Danube,Rhine,Volga,Thames,C
+"Which planet is known as the 'Blue Planet'?",Neptune,Earth,Uranus,Saturn,B
+"Who wrote 'Moby Dick'?",Herman Melville,Nathaniel Hawthorne,Edgar Allan Poe,Washington Irving,A
+"What is the capital of Australia?",Sydney,Melbourne,Brisbane,Canberra,D
+"Which is the largest muscle in the human body?",Quadriceps,Gluteus Maximus,Latissimus Dorsi,Pectoralis Major,B
+"In which year did the French Revolution begin?",1789,1788,1790,1791,A
+"What is the smallest ocean in the world?",Arctic,Indian,Atlantic,Pacific,A
+"Which country is known as the 'Land of the Rising Sun'?",China,Japan,South Korea,Thailand,B
+"Who composed 'The Nutcracker'?",Tchaikovsky,Stravinsky,Prokofiev,Rachmaninoff,A
+"What is the currency of Germany?",Deutsche Mark,Euro,Dollar,Pound,B
+"Which city is known as the 'Pearl of the Orient'?",Hong Kong,Singapore,Bangkok,Manila,D
+"What is the fastest mammal in the world?",Cheetah,Gazelle,Leopard,Pronghorn,A
+"In which country is the ancient city of Machu Picchu located?",Brazil,Peru,Ecuador,Colombia,B
+"What is the largest river in the world by volume?",Nile,Amazon,Yangtze,Mississippi,B
+"Which planet is known as the 'Giant of the Solar System'?",Jupiter,Saturn,Neptune,Uranus,A
+"Who wrote 'The Kite Runner'?",Khaled Hosseini,Amin Maalouf,Orhan Pamuk,Mohsin Hamid,A
+"What is the capital of South Africa?",Johannesburg,Cape Town,Pretoria,Durban,C
+"Which is the largest bone in the human body?",Femur,Tibia,Humerus,Radius,A
+"In which year did the Berlin Wall fall?",1989,1991,1987,1988,A
+"What is the smallest planet in our solar system?",Mercury,Venus,Mars,Pluto,A
+"Which country is known as the 'Land of the Midnight Sun'?",Sweden,Norway,Finland,Denmark,B
+"Who painted 'The Starry Night'?",Pablo Picasso,Vincent van Gogh,Claude Monet,Salvador Dali,B
+"What is the currency of Japan?",Yen,Won,Yuan,Ringgit,A
+"Which city is the capital of Italy?",Milan,Rome,Venice,Florence,B
+"What is the chemical symbol for sodium?",So,Na,Sm,Sn,B
+"In which country is the ancient city of Angkor Wat located?",Thailand,Cambodia,Vietnam,Laos,B
+"What is the longest mountain range in the world?",Himalayas,Rockies,Andes,Alps,C
+"Which planet is known as the 'Red Planet'?",Venus,Mars,Jupiter,Saturn,B
+"Who wrote 'One Hundred Years of Solitude'?",Gabriel García Márquez,Pablo Neruda,Mario Vargas Llosa,Isabel Allende,A
+"What is the capital of Brazil?",Rio de Janeiro,São Paulo,Brasília,Belo Horizonte,C
+"Which is the largest mammal in the world?",African Elephant,Blue Whale,Sperm Whale,Giraffe,B
+"In which year did World War II end?",1945,1944,1946,1943,A
+"What is the smallest country in the world?",Monaco,Vatican City,San Marino,Liechtenstein,B
+"Which country is known as the 'Land of the Rising Sun'?",China,Japan,South Korea,Thailand,B
+"Who composed 'The Four Seasons'?",Mozart,Vivaldi,Bach,Beethoven,B
+"What is the currency of Switzerland?",Euro,Swiss Franc,Kroner,Pound,B
+"Which city is the capital of Austria?",Salzburg,Vienna,Innsbruck,Graz,B
+"What is the most abundant element in the universe?",Helium,Hydrogen,Oxygen,Carbon,B
+"In which country is the ancient city of Carthage located?",Libya,Tunisia,Algeria,Morocco,B
+"What is the largest desert in Asia?",Gobi,Thar,Kara-Kum,Taklamakan,A
+"Which river is the longest in North America?",Colorado,Missouri,Mississippi,Rio Grande,C
+"Who wrote 'The Great Gatsby'?",F. Scott Fitzgerald,Ernest Hemingway,John Steinbeck,William Faulkner,A
+"What is the capital of Malaysia?",Kuala Lumpur,Penang,Johor Bahru,Ipoh,A
+"Which planet is known as the 'Windy Planet'?",Jupiter,Saturn,Neptune,Uranus,C
+"In which year did the Soviet Union collapse?",1991,1989,1992,1990,A
+"What is the smallest bone in the human body?",Stapes,Femur,Radius,Patella,A
+"Which country is known as the 'Land of the White Elephant'?",Myanmar,Thailand,Laos,Cambodia,B
+"Who painted 'The Scream'?",Edvard Munch,Pablo Picasso,Vincent van Gogh,Claude Monet,A
+"What is the currency of Sweden?",Euro,Krona,Krone,Pound,B
+"Which city is the capital of Chile?",Santiago,Valparaíso,Concepción,Viña del Mar,A
+"What is the chemical formula for ammonia?",NH3,NO3,N2O,NaCl,A
+"In which country is the ancient city of Stonehenge located?",Scotland,England,Wales,Ireland,B
+"What is the longest river in Europe?",Danube,Rhine,Volga,Thames,C
+"Which planet is known as the 'Blue Planet'?",Neptune,Earth,Uranus,Saturn,B
+"Who wrote 'Brave New World'?",George Orwell,Aldous Huxley,Ray Bradbury,Philip K. Dick,B
+"What is the capital of Vietnam?",Ho Chi Minh City,Hanoi,Da Nang,Hue,B
+"Which is the largest mammal in the ocean?",Sperm Whale,Blue Whale,Humpback Whale,Orca,B
+"In which year did the French Revolution begin?",1789,1788,1790,1791,A
+"What is the smallest country in Asia?",Maldives,Brunei,Singapore,Bahrain,A
+"Which country is known as the 'Land of the Rising Sun'?",China,Japan,South Korea,Thailand,B
+"Who composed 'The Marriage of Figaro'?",Mozart,Beethoven,Bach,Verdi,A
+"What is the currency of South Korea?",Yen,Won,Yuan,Ringgit,B
+"Which city is the capital of New Zealand?",Auckland,Wellington,Christchurch,Hamilton,B
+"What is the chemical symbol for silver?",Si,Ag,Au,Al,B
+"In which country is the ancient city of Knossos located?",Greece,Turkey,Cyprus,Italy,A
+"What is the longest mountain range in the world?",Himalayas,Rockies,Andes,Alps,C
+"Which planet is known as the 'Giant of the Solar System'?",Jupiter,Saturn,Neptune,Uranus,A
+"Who wrote 'The Catcher in the Rye'?",J.D. Salinger,Harper Lee,Truman Capote,William Golding,A
+"What is the capital of Singapore?",Singapore,Kuala Lumpur,Jakarta,Manila,A
+"Which is the largest bone in the human body?",Femur,Tibia,Humerus,Radius,A
+"In which year did the Berlin Wall fall?",1989,1991,1987,1988,A
+"What is the smallest ocean in the world?",Arctic,Indian,Atlantic,Pacific,A
+"Which country is known as the 'Land of the Midnight Sun'?",Sweden,Norway,Finland,Denmark,B
+"Who painted 'The Mona Lisa'?",Michelangelo,Leonardo da Vinci,Raphael,Donatello,B
+"What is the currency of Mexico?",Peso,Dollar,Real,Bolivar,A
+"Which city is the capital of Greece?",Thessaloniki,Athens,Patras,Piraeus,B
+"What is the chemical formula for methane?",CH4,C2H6,C3H8,C4H10,A
+"In which country is the ancient city of Bagan located?",Thailand,Myanmar,Laos,Cambodia,B
+"What is the largest desert in the world?",Sahara,Gobi,Kalahari,Arabian,A
+"Which river is the longest in Africa?",Congo,Niger,Nile,Zambezi,C
+"Who wrote 'The Odyssey'?",Homer,Virgil,Ovid,Hesiod,A
+"What is the capital of Iran?",Isfahan,Tehran,Mashhad,Tabriz,B
+"Which planet is known as the 'Red Planet'?",Venus,Mars,Jupiter,Saturn,B
+"In which year did World War I begin?",1914,1913,1915,1916,A
+"What is the smallest planet in our solar system?",Mercury,Venus,Mars,Pluto,A
+"Which country is known as the 'Land of the Midnight Sun'?",Sweden,Norway,Finland,Denmark,B
+"Who composed 'The 1812 Overture'?",Tchaikovsky,Brahms,Liszt,Rachmaninoff,A
+"What is the currency of Russia?",Ruble,Krone,Zloty,Forint,A
+"Which city is the capital of Portugal?",Porto,Lisbon,Faro,Coimbra,B
+"What is the chemical symbol for sodium?",So,Na,Sm,Sn,B
+"In which country is the ancient city of Persepolis located?",Iran,Iraq,Turkey,Syria,A
+"What is the longest river in South America?",Orinoco,Amazon,Paraná,Magdalena,B
+"Which planet is known as the 'Ice Giant'?",Jupiter,Saturn,Uranus,Neptune,C
+"Who wrote 'The Lord of the Rings'?",J.R.R. Tolkien,C.S. Lewis,J.K. Rowling,George R.R. Martin,A
+"What is the capital of Egypt?",Cairo,Alexandria,Luxor,Aswan,A
+"Which is the largest muscle in the human body?",Quadriceps,Gluteus Maximus,Latissimus Dorsi,Pectoralis Major,B
+"In which year did the Chernobyl disaster occur?",1986,1985,1987,1984,A
+"What is the smallest continent by area?",Australia,Antarctica,Europe,South America,A
+"Which country is known as the 'Land of Fire and Ice'?",Norway,Iceland,Greenland,Finland,B
+"Who painted 'The Persistence of Memory'?",Pablo Picasso,Salvador Dali,René Magritte,Joan Miró,B
+"What is the currency of United States?",Dollar,Pound,Euro,Peso,A
+"Which city is the capital of Morocco?",Casablanca,Rabat,Marrakech,Fez,B
+"What is the chemical formula for carbon dioxide?",CO2,CO,C2O,C2O2,A
+"In which country is the ancient city of Pompeii located?",Italy,Greece,Turkey,Egypt,A
+"What is the longest mountain range in the world?",Himalayas,Rockies,Andes,Alps,C
+"Which planet is known as the 'Morning Star'?",Mars,Venus,Jupiter,Saturn,B
+"Who wrote 'Wuthering Heights'?",Emily Bronte,Charlotte Bronte,Anne Bronte,Jane Austen,A
+"What is the capital of Bangladesh?",Chittagong,Dhaka,Sylhet,Khulna,B
+"Which is the largest organ in the human body?",Liver,Brain,Lungs,Skin,D
+"In which year did the Stock Market crash, leading to the Great Depression?",1929,1928,1930,1931,A
+"What is the smallest bone in the human body?",Stapes,Femur,Radius,Patella,A
+"Which country is known as the 'Roof of the World'?",Nepal,Tibet,Bhutan,Pakistan,B
+"Who composed 'The Nutcracker'?",Tchaikovsky,Stravinsky,Prokofiev,Rachmaninoff,A
+"What is the currency of Australia?",Dollar,Pound,Euro,Peso,A
+"Which city is the capital of Spain?",Barcelona,Madrid,Valencia,Seville,B
+"What is the chemical symbol for iron?",Fe,Ir,I,Fr,A
+"In which country is the ancient city of Machu Picchu located?",Brazil,Peru,Ecuador,Colombia,B
+"What is the largest river in the world by volume?",Nile,Amazon,Yangtze,Mississippi,B
+"Which planet is known as the 'Ringed Planet'?",Jupiter,Saturn,Uranus,Neptune,B
+"Who wrote 'The Kite Runner'?",Khaled Hosseini,Amin Maalouf,Orhan Pamuk,Mohsin Hamid,A
+"What is the capital of Kenya?",Nairobi,Mombasa,Kisumu,Nakuru,A
+"Which is the largest mammal in the world?",African Elephant,Blue Whale,Sperm Whale,Giraffe,B
+"In which year did World War II end?",1945,1944,1946,1943,A
+"What is the smallest country in the world?",Monaco,Vatican City,San Marino,Liechtenstein,B
+"Which country is known as the 'Land of the Rising Sun'?",China,Japan,South Korea,Thailand,B
+"Who painted 'The Birth of Venus'?",Michelangelo,Leonardo da Vinci,Sandro Botticelli,Raphael,C
+"What is the currency of Japan?",Yen,Won,Yuan,Ringgit,A
+"Which city is the capital of Czech Republic?",Brno,Prague,Ostrava,Plzen,B
+"What is the chemical formula for water?",H2O,CO2,NaCl,NH3,A
+"In which country is the ancient city of Angkor Wat located?",Thailand,Cambodia,Vietnam,Laos,B
+"What is the longest river in Asia?",Ganges,Mekong,Yangtze,Yellow,C
+"Which planet is the hottest in our solar system?",Mercury,Venus,Mars,Jupiter,B
+"Who wrote 'The Adventures of Tom Sawyer'?",Mark Twain,Charles Dickens,J.D. Salinger,Harper Lee,A
+"What is the capital of Finland?",Helsinki,Tampere,Turku,Oulu,A
+"Which is the largest desert in Africa?",Sahara,Kalahari,Namib,Libyan,A
+"In which year did the first man land on the moon?",1969,1968,1970,1971,A
+"What is the smallest mammal in the world?",Shrew,Bumblebee Bat,Mouse,Rat,B
+"Which country is known as the 'Land of the Pharaohs'?",Egypt,Sudan,Libya,Morocco,A
+"Who composed 'The Blue Danube'?",Johann Strauss II,Johann Strauss I,Franz Schubert,Franz Liszt,A
+"What is the currency of Norway?",Krone,Krona,Euro,Pound,A
+"Which city is the capital of Croatia?",Split,Zagreb,Rijeka,Dubrovnik,B
+"What is the chemical symbol for gold?",Ag,Au,Cu,Fe,B
+"In which country is the ancient city of Troy located?",Greece,Turkey,Italy,Egypt,B
+"What is the longest mountain range in the world?",Himalayas,Rockies,Andes,Alps,C
+"Which planet is known as the 'Blue Planet'?",Neptune,Earth,Uranus,Saturn,B
+"Who wrote 'The Grapes of Wrath'?",John Steinbeck,William Faulkner,Ernest Hemingway,F. Scott Fitzgerald,A
+"What is the capital of South Korea?",Busan,Seoul,Incheon,Daegu,B
+"Which is the fastest land animal?",Lion,Cheetah,Leopard,Jaguar,B
+"In which year did the Berlin Wall fall?",1989,1991,1987,1988,A
+"What is the smallest ocean in the world?",Arctic,Indian,Atlantic,Pacific,A
+"Which country is known as the 'Land of the Rising Sun'?",China,Japan,South Korea,Thailand,B
+"Who painted 'The Starry Night'?",Pablo Picasso,Vincent van Gogh,Claude Monet,Salvador Dali,B
+"What is the currency of China?",Yen,Won,Yuan,Ringgit,C
+"Which city is the capital of Netherlands?",Rotterdam,Amsterdam,The Hague,Utrecht,B
+"What is the chemical formula for salt?",NaCl,KCl,CaCl2,MgCl2,A
+"In which country is the ancient city of Petra located?",Egypt,Jordan,Syria,Israel,B
+"What is the longest river in Europe?",Danube,Rhine,Volga,Thames,C
+"Which planet is known as the 'Giant of the Solar System'?",Jupiter,Saturn,Neptune,Uranus,A
+"Who wrote 'Crime and Punishment'?",Leo Tolstoy,Fyodor Dostoevsky,Anton Chekhov,Ivan Turgenev,B
+"What is the capital of Colombia?",Bogotá,Medellín,Cali,Barranquilla,A
+"Which is the largest bone in the human body?",Femur,Tibia,Humerus,Radius,A
+"In which year did the Cold War end?",1991,1989,1992,1990,A
+"What is the smallest country in Asia?",Maldives,Brunei,Singapore,Bahrain,A
+"Which country is known as the 'Land of the Midnight Sun'?",Sweden,Norway,Finland,Denmark,B
+"Who composed 'The Moonlight Sonata'?",Mozart,Beethoven,Chopin,Liszt,B
+"What is the currency of Brazil?",Peso,Real,Dollar,Bolivar,B
+"Which city is the capital of Hungary?",Debrecen,Budapest,Szeged,Miskolc,B
+"What is the chemical symbol for oxygen?",O,O2,Ox,Om,A
+"In which country is the ancient city of Babylon located?",Iran,Iraq,Syria,Turkey,B
+"What is the largest desert in Asia?",Gobi,Thar,Kara-Kum,Taklamakan,A
+"Which river is the longest in Africa?",Congo,Niger,Nile,Zambezi,C
+"Who wrote 'The Picture of Dorian Gray'?",Oscar Wilde,Bram Stoker,Arthur Conan Doyle,H.G. Wells,A
+"What is the capital of Argentina?",Buenos Aires,Córdoba,Rosario,Mendoza,A
+"Which planet is known as the 'Ice Giant'?",Jupiter,Saturn,Uranus,Neptune,C
+"In which year did World War I end?",1918,1917,1919,1920,A
+"What is the smallest planet in our solar system?",Mercury,Venus,Mars,Pluto,A
+"Which country is known as the 'Land of the Free'?",United States,France,Switzerland,Netherlands,A
+"Who painted 'The Last Supper'?",Michelangelo,Leonardo da Vinci,Raphael,Donatello,B
+"What is the currency of Germany?",Deutsche Mark,Euro,Dollar,Pound,B
+"Which city is the capital of Belgium?",Antwerp,Brussels,Ghent,Bruges,B
+"What is the chemical formula for methane?",CH4,C2H6,C3H8,C4H10,A
+"In which country is the ancient city of Carthage located?",Libya,Tunisia,Algeria,Morocco,B
+"What is the longest river in South America?",Orinoco,Amazon,Paraná,Magdalena,B
+"Which planet is known as the 'Red Planet'?",Venus,Mars,Jupiter,Saturn,B
+"Who wrote 'Moby Dick'?",Herman Melville,Nathaniel Hawthorne,Edgar Allan Poe,Washington Irving,A
+"What is the capital of Thailand?",Bangkok,Phuket,Chiang Mai,Pattaya,A
+"Which is the largest muscle in the human body?",Quadriceps,Gluteus Maximus,Latissimus Dorsi,Pectoralis Major,B
+"In which year did the Chernobyl disaster occur?",1986,1985,1987,1984,A
+"What is the smallest continent by area?",Australia,Antarctica,Europe,South America,A
+"Which country is known as the 'Land of Fire and Ice'?",Norway,Iceland,Greenland,Finland,B
+"Who composed 'The Four Seasons'?",Mozart,Vivaldi,Bach,Beethoven,B
+"What is the currency of India?",Dollar,Rupee,Peso,Yen,B
+"Which city is the capital of Poland?",Krakow,Warsaw,Gdansk,Wroclaw,B
+"What is the chemical symbol for silver?",Si,Ag,Au,Al,B
+"In which country is the ancient city of Stonehenge located?",Scotland,England,Wales,Ireland,2
+"What is the longest mountain range in the world?",Himalayas,Rockies,Andes,Alps,C
+"Which planet is known as the 'Morning Star'?",Mars,Venus,Jupiter,Saturn,B
+"Who wrote 'The Divine Comedy'?",Dante Alighieri,Petrarch,Boccaccio,Machiavelli,A
+"What is the capital of Turkey?",Istanbul,Ankara,Izmir,Bursa,B
+"Which is the largest organ in the human body?",Liver,Brain,Lungs,Skin,D
+"In which year did the French Revolution begin?",1789,1788,1790,1791,A
+"What is the smallest ocean in the world?",Arctic,Indian,Atlantic,Pacific,A
+"Which country is known as the 'Land of the Rising Sun'?",China,Japan,South Korea,Thailand,B
+"Who painted 'The Scream'?",Edvard Munch,Pablo Picasso,Vincent van Gogh,Claude Monet,A
+"What is the currency of Canada?",Dollar,Pound,Euro,Peso,A
+"Which city is the capital of Denmark?",Aarhus,Copenhagen,Odense,Aalborg,B
+"What is the chemical formula for water?",H2O,CO2,NaCl,NH3,A
+"In which country is the ancient city of Pompeii located?",Italy,Greece,Turkey,Egypt,A
+"What is the longest river in North America?",Colorado,Missouri,Mississippi,Rio Grande,C
+"Which planet is known as the 'Blue Planet'?",Neptune,Earth,Uranus,Saturn,B
+"Who wrote 'The Catcher in the Rye'?",J.D. Salinger,Harper Lee,Truman Capote,William Golding,A
+"What is the capital of South Africa?",Johannesburg,Cape Town,Pretoria,Durban,C
+"Which is the largest mammal in the world?",African Elephant,Blue Whale,Spear Whale,Giraffe,B
+"In which year did the Berlin Wall fall?",1989,1991,1987,1988,A
+"What is the smallest bone in the human body?",Stapes,Femur,Radius,Patella,A
+"Which country is known as the 'Roof of the World'?",Nepal,Tibet,Bhutan,Pakistan,B
+"Who composed 'The 1812 Overture'?",Tchaikovsky,Brahms,Liszt,Rachmaninoff,A
+"What is the currency of United Kingdom?",Euro,Pound Sterling,Dollar,Kroner,B
+"Which city is the capital of Norway?",Bergen,Oslo,Trondheim,Stavanger,B
+"What is the chemical symbol for sodium?",So,Na,Sm,Sn,B
+"In which country is the ancient city of Knossos located?",Greece,Turkey,Cyprus,Italy,A
+"What is the longest river in Europe?",Danube,Rhine,Volga,Thames,C
+"Which planet is known as the 'Ringed Planet'?",Jupiter,Saturn,Uranus,Neptune,B
+"Who wrote 'War and Peace'?",Leo Tolstoy,Fyodor Dostoevsky,Anton Chekhov,Ivan Turgenev,A
+"What is the capital of Italy?",Milan,Rome,Venice,Florence,B
+"Which is the fastest bird in the world?",Eagle,Falcon,Hawk,Peregrine Falcon,D
+"In which year did World War II end?",1945,1944,1946,1943,A
+"What is the smallest country in the world?",Monaco,Vatican City,San Marino,Liechtenstein,B
+"Which country is known as the 'Land of the Rising Sun'?",China,Japan,South Korea,Thailand,B
+"Who painted 'The Birth of Venus'?",Michelangelo,Leonardo da Vinci,Sandro Botticelli,Raphael,C
+"What is the currency of Japan?",Yen,Won,Yuan,Ringgit,A
+"Which city is the capital of Sweden?",Gothenburg,Stockholm,Malmö,Uppsala,B
+"What is the chemical formula for carbon dioxide?",CO2,CO,C2O,C2O2,A
+"In which country is the ancient city of Machu Picchu located?",Brazil,Peru,Ecuador,Colombia,B
+"What is the largest desert in the world?",Sahara,Gobi,Kalahari,Arabian,A
+"Which river is the longest in the world?",Amazon,Nile,Yangtze,Mississippi,B
+"Who wrote 'Pride and Prejudice'?",Emily Bronte,Jane Austen,Charlotte Bronte,George Eliot,B
+"What is the capital of Russia?",Moscow,St. Petersburg,Yekaterinburg,Novosibirsk,A
+"Which planet is closest to the Sun?",Venus,Mercury,Mars,Earth,B
+"In which year did the first man land on the moon?",1969,1968,1970,1971,A
+"What is the smallest mammal in the world?",Shrew,Bumblebee Bat,Mouse,Rat,B
+"Which country is known as the 'Land of the Pharaohs'?",Egypt,Sudan,Libya,Morocco,A
+"Who composed 'The Marriage of Figaro'?",Mozart,Beethoven,Bach,Verdi,A
+"What is the currency of Switzerland?",Euro,Swiss Franc,Kroner,Pound,B
+"Which city is the capital of Austria?",Salzburg,Vienna,Innsbruck,Graz,B
+"What is the chemical symbol for iron?",Fe,Ir,I,Fr,A
+"In which country is the ancient city of Troy located?",Greece,Turkey,Italy,Egypt,B
+"What is the longest mountain range in the world?",Himalayas,Rockies,Andes,Alps,C
+"Which planet is the hottest in our solar system?",Mercury,Venus,Mars,Jupiter,B
+"Who wrote 'The Adventures of Tom Sawyer'?",Mark Twain,Charles Dickens,J.D. Salinger,Harper Lee,A
+"What is the capital of Czech Republic?",Brno,Prague,Ostrava,Plzen,B
+"Which is the largest desert in Africa?",Sahara,Kalahari,Namib,Libyan,A
+"In which year did the Soviet Union collapse?",1991,1989,1992,1990,A
+"What is the smallest bone in the human body?",Stapes,Femur,Radius,Patella,A
+"Which country is known as the 'Land of the Midnight Sun'?",Sweden,Norway,Finland,Denmark,B
+"Who painted 'The Persistence of Memory'?",Pablo Picasso,Salvador Dali,René Magritte,Joan Miró,B
+"What is the currency of Mexico?",Peso,Dollar,Real,Bolivar,A
+"Which city is the capital of Portugal?",Porto,Lisbon,Faro,Coimbra,B
+"What is the chemical formula for ammonia?",NH3,NO3,N2O,NaCl,A
+"In which country is the ancient city of Persepolis located?",Iran,Iraq,Turkey,Syria,A
+"What is the longest river in South America?",Orinoco,Amazon,Paraná,Magdalena,B
+"Which planet is known as the 'Ice Giant'?",Jupiter,Saturn,Uranus,Neptune,C
+"Who wrote 'The Lord of the Rings'?",J.R.R. Tolkien,C.S. Lewis,J.K. Rowling,George R.R. Martin,A
+"What is the capital of France?",Lyon,Paris,Marseille,Bordeaux,B
+"Which is the largest bone in the human body?",Femur,Tibia,Humerus,Radius,A
+"What is the currency of India?",Dollar,Rupee,Peso,Yen,B
+"Which city is known as the 'Big Apple'?",Los Angeles,New York,Chicago,Miami,B
+"What is the hardest natural substance on Earth?",Quartz,Diamond,Granite,Iron,B
+"In which country is the ancient city of Pompeii located?",Italy,Greece,Turkey,Egypt,A
+"What is the largest desert in the world?",Sahara,Gobi,Kalahari,Arabian,A
+"Which river is the longest in the world?",Amazon,Nile,Yangtze,Mississippi,B
+"Who wrote 'Pride and Prejudice'?",Emily Bronte,Jane Austen,Charlotte Bronte,George Eliot,B
+"What is the capital of Russia?",Moscow,St. Petersburg,Yekaterinburg,Novosibirsk,A
+"Which planet is closest to the Sun?",Venus,Mercury,Mars,Earth,B
+"In which year did the first man land on the moon?",1969,1968,1970,1971,A
+"What is the smallest bone in the human body?",Stapes,Femur,Radius,Patella,A
+"Which country is known as the 'Land of the Thunder Dragon'?",Tibet,Nepal,Bhutan,Myanmar,C
+"Who painted 'The Last Supper'?",Michelangelo,Leonardo da Vinci,Raphael,Donatello,B
+"What is the currency of the United Kingdom?",Euro,Pound Sterling,Dollar,Kroner,B
+"Which city is the capital of France?",Lyon,Paris,Marseille,Bordeaux,B
+"What is the chemical formula for carbon dioxide?",CO2,CO,C2O,C2O2,A
+"In which country is the ancient city of Carthage located?",Libya,Tunisia,Algeria,Morocco,B
+"What is the longest river in Asia?",Ganges,Mekong,Yangtze,Yellow,C
+"Which planet has the most moons?",Jupiter,Saturn,Neptune,Uranus,B
+"Who wrote 'War and Peace'?",Leo Tolstoy,Fyodor Dostoevsky,Anton Chekhov,Ivan Turgenev,A
+"What is the capital of China?",Shanghai,Beijing,Guangzhou,Shenzhen,B
+"Which is the largest organ in the human body?",Liver,Brain,Lungs,Skin,D
+"In which year did the Berlin Wall fall?",1989,1991,1987,1988,A
+"What is the smallest ocean in the world?",Arctic,Indian,Atlantic,Pacific,A
+"Which country is known as the 'Land of the Rising Sun'?",China,Japan,South Korea,Thailand,B
+"Who composed 'The Moonlight Sonata'?",Mozart,Beethoven,Chopin,Liszt,B
+"What is the currency of Brazil?",Peso,Real,Dollar,Bolivar,B
+"Which city is known as the 'Eternal City'?",Athens,Rome,Cairo,Istanbul,B
+"What is the fastest land animal?",Lion,Cheetah,Leopard,Jaguar,B
+"In which country is the ancient city of Babylon located?",Iran,Iraq,Syria,Turkey,B
+"What is the largest desert in Africa?",Sahara,Kalahari,Namib,Libyan,A
+"Which river is the longest in Africa?",Congo,Niger,Nile,Zambezi,C
+"Who wrote 'Crime and Punishment'?",Leo Tolstoy,Fyodor Dostoevsky,Anton Chekhov,Ivan Turgenev,B
+"What is the capital of Mexico?",Guadalajara,Mexico City,Monterrey,Puebla,B
+"Which planet is known as the 'Ringed Planet'?",Jupiter,Saturn,Uranus,Neptune,B
+"In which year did World War I begin?",1914,1913,1915,1916,A
+"What is the smallest mammal in the world?",Shrew,Bumblebee Bat,Mouse,Rat,B
+"Which country is known as the 'Land of the Pharaohs'?",Egypt,Sudan,Libya,Morocco,A
+"Who painted 'The Birth of Venus'?",Michelangelo,Leonardo da Vinci,Sandro Botticelli,Raphael,C
+"What is the currency of Russia?",Ruble,Krone,Zloty,Forint,A
+"Which city is the capital of South Korea?",Busan,Seoul,Incheon,Daegu,B
+"What is the chemical symbol for iron?",Fe,Ir,I,Fr,A
+"In which country is the ancient city of Troy located?",Greece,Turkey,Italy,Egypt,B
+"What is the longest mountain range in the world?",Himalayas,Rockies,Andes,Alps,C
+"Which planet is the hottest in our solar system?",Mercury,Venus,Mars,Jupiter,B
+"Who wrote 'The Adventures of Tom Sawyer'?",Mark Twain,Charles Dickens,J.D. Salinger,Harper Lee,A
+"What is the capital of Thailand?",Bangkok,Phuket,Chiang Mai,Pattaya,A
+"Which is the largest muscle in the human body?",Quadriceps,Gluteus Maximus,Latissimus Dorsi,Pectoralis Major,B
+"In which year did the Chernobyl disaster occur?",1986,1985,1987,1984,A
+"What is the smallest continent by area?",Australia,Antarctica,Europe,South America,A
+"Which country is known as the 'Land of Fire and Ice'?",Norway,Iceland,Greenland,Finland,B
+"Who composed 'The 1812 Overture'?",Tchaikovsky,Brahms,Liszt,Rachmaninoff,A
+"What is the currency of South Africa?",Rand,Dollar,Pound,Peso,A
+"Which city is known as the 'City of Love'?",Rome,Paris,Venice,Vienna,B
+"What is the fastest bird in the world?",Eagle,Falcon,Hawk,Peregrine Falcon,D
+"In which country is the ancient city of Persepolis located?",Iran,Iraq,Turkey,Syria,A
+"What is the largest lake in the world?",Lake Superior,Caspian Sea,Lake Victoria,Lake Baikal,B
+"Which river is the longest in South America?",Orinoco,Amazon,Paraná,Magdalena,B
+"Who wrote 'The Divine Comedy'?",Dante Alighieri,Petrarch,Boccaccio,Machiavelli,A
+"What is the capital of Argentina?",Buenos Aires,Córdoba,Rosario,Mendoza,A
+"Which planet is known as the 'Ice Giant'?",Jupiter,Saturn,Uranus,Neptune,C
+"In which year did the Stock Market crash, leading to the Great Depression?",1929,1928,1930,1931,A
+"What is the smallest bone in the human body?",Stapes,Femur,Radius,Patella,A
+"Which country is known as the 'Roof of the World'?",Nepal,Tibet,Bhutan,Pakistan,B
+"Who painted 'The Persistence of Memory'?",Pablo Picasso,Salvador Dali,René Magritte,Joan Miró,B
+"What is the currency of Canada?",Dollar,Pound,Euro,Peso,A
+"Which city is the capital of Turkey?",Istanbul,Ankara,Izmir,Bursa,B
+"What is the chemical formula for water?",H2O,CO2,NaCl,NH3,A
+"In which country is the ancient city of Petra located?",Egypt,Jordan,Syria,Israel,B
+"What is the longest river in Europe?",Danube,Rhine,Volga,Thames,C
+"Which planet is known as the 'Blue Planet'?",Neptune,Earth,Uranus,Saturn,B
+"Who wrote 'Moby Dick'?",Herman Melville,Nathaniel Hawthorne,Edgar Allan Poe,Washington Irving,A
+"What is the capital of Australia?",Sydney,Melbourne,Brisbane,Canberra,D
+"Which is the largest bone in the human body?",Femur,Tibia,Humerus,Radius,A
+"In which year did the French Revolution begin?",1789,1788,1790,1791,A
+"What is the smallest ocean in the world?",Arctic,Indian,Atlantic,Pacific,A
+"Which country is known as the 'Land of the Rising Sun'?",China,Japan,South Korea,Thailand,B
+"Who composed 'The Nutcracker'?",Tchaikovsky,Stravinsky,Prokofiev,Rachmaninoff,A
+"What is the currency of Germany?",Deutsche Mark,Euro,Dollar,Pound,B
+"Which city is known as the 'Pearl of the Orient'?",Hong Kong,Singapore,Bangkok,Manila,D
+"What is the fastest mammal in the world?",Cheetah,Gazelle,Leopard,Pronghorn,A
+"In which country is the ancient city of Machu Picchu located?",Brazil,Peru,Ecuador,Colombia,B
+"What is the largest river in the world by volume?",Nile,Amazon,Yangtze,Mississippi,B
+"Which planet is known as the 'Giant of the Solar System'?",Jupiter,Saturn,Neptune,Uranus,A
+"Who wrote 'The Kite Runner'?",Khaled Hosseini,Amin Maalouf,Orhan Pakuk,Mohsin Hamid,A
+"What is the capital of South Africa?",Johannesburg,Cape Town,Pretoria,Durban,C
+"Which is the largest organ in the human body?",Liver,Brain,Lungs,Skin,D
+"In which year did World War I end?",1918,1917,1919,1920,A
+"What is the smallest planet in our solar system?",Mercury,Venus,Mars,Pluto,A
+"Which country is known as the 'Land of the Midnight Sun'?",Sweden,Norway,Finland,Denmark,B
+"Who painted 'The Scream'?",Edvard Munch,Pablo Picasso,Vincent van Gogh,Claude Monet,A
+"What is the currency of Japan?",Yen,Won,Yuan,Ringgit,A
+"Which city is the capital of Italy?",Milan,Rome,Venice,Florence,B
+"What is the chemical symbol for gold?",Ag,Au,Cu,Fe,B
+"In which country is the ancient city of Angkor Wat located?",Thailand,Cambodia,Vietnam,Laos,B
+"What is the longest mountain range in the world?",Himalayas,Rockies,Andes,Alps,C
+"Which planet is known as the 'Red Planet'?",Venus,Mars,Jupiter,Saturn,B
+"Who wrote 'One Hundred Years of Solitude'?",Gabriel García Márquez,Pablo Neruda,Mario Vargas Llosa,Isabel Allende,A
+"What is the capital of Brazil?",Rio de Janeiro,São Paulo,Brasília,Belo Horizonte,C
+"Which is the largest mammal in the world?",African Elephant,Blue Whale,Sperm Whale,Giraffe,B
+"In which year did World War II end?",1945,1944,1946,1943,A
+"What is the smallest country in the world?",Monaco,Vatican City,San Marino,Liechtenstein,B
+"Which country is known as the 'Land of the Rising Sun'?",China,Japan,South Korea,Thailand,B
+"Who composed 'The Four Seasons'?",Mozart,Vivaldi,Bach,Beethoven,B
